@@ -23,7 +23,7 @@ public class Complex
 		System.out.println("complex no:"+ real +" +i"+ img);
 		}
 	
-	public static void main(String[] args)
+public static void main(String[] args)
 		{
 		Complex c1,c2;
 		c1 = new Complex();
