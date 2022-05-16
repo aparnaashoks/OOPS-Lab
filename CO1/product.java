@@ -65,6 +65,6 @@ public class Product
 		p2.show();
 		p3.show();
 		compare(p1,p2,p3);
-		
+	
 		}
 	}
