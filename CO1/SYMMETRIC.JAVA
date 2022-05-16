@@ -28,8 +28,7 @@ for(i=0;i<row;i++)
            break;
        }
     }
-}
-if(state)
+}if(state)
 {
     System.out.println("Matrix is Symmetric");
 }
