@@ -19,8 +19,7 @@ for(i=0;i<num-1;i++)
 for(j=i+1;j<num;j++)
 {
 if(word[i].compareTo(word[j])>0)
-{
-String temp=word[i];
+{String temp=word[i];
 word[i]=word[j];
 word[j]= temp;
 }
