@@ -62,7 +62,7 @@ public class Matrix
                     }
                 }
             }
-            System.out.println("Matrix after addition:");
+           System.out.println("Matrix after addition:");
             for (int i = 0; i < p; i++) 
             {
                 for (int j = 0; j < n; j++) 
