@@ -14,5 +14,4 @@ System.out.println("Replace 'col' with  'kol':"+str1.replaceAll("col","kol"));
 System.out.println("Lowercase:"+str1.toLowerCase());
 System.out.println("uppercase:"+str1.toUpperCase());
 sc.close();
-}
-}
+}}
