@@ -39,7 +39,7 @@ class Cpu {
         System.out.println("Price of CPU : " + this.price);
     }
 
-    public static void main(String[] args) {
+   public static void main(String[] args) {
         Cpu intel = new Cpu(23000);
         Cpu.Processor i_processor = intel.new Processor(4, "intel");
         Cpu.Ram i_ram = new Ram(1024, "Asus");
