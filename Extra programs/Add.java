@@ -10,5 +10,4 @@ a=s1.nextInt();
 b=s1.nextInt();
 c=a+b;
 System.out.println("Result is"+c);
-}
-}
+}}
