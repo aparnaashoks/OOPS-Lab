@@ -24,4 +24,4 @@ System.out.println("Element found at position = "+x);
 } else{
 System.out.println("Element found not found");
   } 
-  sc.close();}}
+ sc.close();}}
