@@ -16,6 +16,5 @@ a=s1.nextFloat();
 System.out.println(" Name"+Name);
 System.out.println("Age"+Age);
 System.out.println("Salary"+Salary);
-}
-}
+}}
 
