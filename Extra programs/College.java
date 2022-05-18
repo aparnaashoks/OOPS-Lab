@@ -54,8 +54,7 @@ public static void main(String[] args)
 	System.out.println("Student Details ");
 	stu.getData("Athira",14,6767777);
         stu.display();
-    
-}
+    }
 }
 
 
