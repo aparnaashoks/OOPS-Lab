@@ -40,8 +40,7 @@ break;
 default:
 System.out.println("Invalid srtement");
 }
-}
-}
+}}
 
 
 
